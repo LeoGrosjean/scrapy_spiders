@@ -1,0 +1,6 @@
+extruct
+scrapy
+fake-useragent
+unidecode
+python-slugify
+pandas
