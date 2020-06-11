@@ -1,5 +1,6 @@
-[scrapy github](https://github.com/scrapy/scrapy)
-[scrapy doc](https://docs.scrapy.org/en/latest/)
+- [scrapy github](https://github.com/scrapy/scrapy)
+
+- [scrapy doc](https://docs.scrapy.org/en/latest/)
 
 Scraper for anything, scrap gently with scrapy !
 
